@@ -5,7 +5,7 @@
 - 📫 You can contact me at 
 Email - abhishekay2003@gmail.com  
 LinkedIn - https://www.linkedin.com/in/abhishek-yadav-abhi
-Instagram - @abhishek.yadav.3212
+Instagram - https://www.instagram.com/abhishek.yadav.3212
 <!---
 Abhishek-yadav-12/Abhishek-yadav-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
