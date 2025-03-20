@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-pi-ochre-76.vercel.app/](https://abhishek-yadav-12-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://abhishek-yadav-12-portfolio.vercel.app/)
 
 - 💬 Ask me about **WEB DEV & APP DEV**
 
